@@ -3,7 +3,7 @@ class AtomminerCli < Formula
   homepage "https://atomminer.com"
   url "https://static.atomminer.com/software/dev/atomminer-latest.tar.gz"
   version "1.0.3RC9"
-  sha256 "8ccfabbcc8525e7f6c80031e7937b4b33d206166d2eec48534d64063731a2c2b"
+  sha256 "686f9c12ff0a5e53997076afa91e956b48afea6bb95769439500f21d1313bbb7"
   license :cannot_represent
 
   def install
