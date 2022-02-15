@@ -5,6 +5,7 @@ class AtomminerCli < Formula
   version "1.0.3RC10"
   sha256 "27c5f5b6363c15275c4e3aec1de08ca001b06d66be9021a6514f3f6f3fc7f524"
   license :cannot_represent
+  depends_on "libusb"
 
   def install
     bin.install "atomminer-cli"
