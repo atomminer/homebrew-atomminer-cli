@@ -2,8 +2,8 @@ class AtomminerCli < Formula
   desc "AM01 mining software"
   homepage "https://atomminer.com"
   url "https://static.atomminer.com/software/dev/atomminer-latest.tar.gz"
-  version "1.0.3RC10"
-  sha256 "0d8fe8c85e64fcc6ed10899e0bb13d983591ea0ebe77f550b58b001c81286e56"
+  version "1.0.3RC11"
+  sha256 "dd85e89efdfaa7ca5cf5918e892c8a04d828642289675d4635066a2bc64e9152"
   license :cannot_represent
   depends_on "libusb"
 
